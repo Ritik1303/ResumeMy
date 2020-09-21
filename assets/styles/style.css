@@ -52,13 +52,12 @@ section{
 	font-family: 'Merriweather', serif;
 }
 .about{
-    background-image: url('https://img1.goodfon.com/wallpaper/nbig/b/29/table-pen-ink.jpg');
+    background-image: url('https://st2.depositphotos.com/5044661/10513/v/950/depositphotos_105138180-stock-illustration-various-colored-dots-connected-with.jpg');
     display: table;
     height: 100vh;
     width:100%;
     background-size: cover;
     background-repeat: no-repeat;
-	background-position: 0 -250px;
 }
 .about .inner{
     display: table-cell;
